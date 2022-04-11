@@ -1,0 +1,6 @@
+/home/risingnet/nest-2.18.0-install/lib/nest/util_neurons_module.so
+/home/risingnet/nest-2.18.0-install/lib/nest/libutil_neurons_module.so
+/home/risingnet/nest-2.18.0-install/include/util_neurons_module.h
+/home/risingnet/nest-2.18.0-install/share/nest/sli/util_neurons_module-init.sli
+/home/risingnet/nest-2.18.0-install/share/doc/nest/help/helpindex.html
+/home/risingnet/nest-2.18.0-install/share/doc/nest/help/helpindex.hlp

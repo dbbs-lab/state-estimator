@@ -1,0 +1,12 @@
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/install/local.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/dist.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/util_neurons_module_lib.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/util_neurons_module_module.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/package.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/package_source.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/edit_cache.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/rebuild_cache.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/install/strip.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/generate_help.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/list_install_components.dir
+/home/risingnet/Desktop/paper file utili/util_neurons/target/CMakeFiles/install.dir
