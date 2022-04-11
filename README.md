@@ -1,2 +1,2 @@
 # state-estimator
-Code implementing a spiking state estimator as in Grillo et al., 2022
+Code for the spiking state estimator described in Grillo et al., 2022
